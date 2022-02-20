@@ -1,4 +1,4 @@
-# Nomadcoders Challenge (Finish project)
+# Nomadcoders Challenge (Final project)
 
 ✅ 바닐라JS 챌린지 (2주)
 
