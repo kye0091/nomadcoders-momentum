@@ -1,4 +1,4 @@
-# Nomadcoders Challenge (Final project)
+# 🔥 Nomadcoders Challenge (Final project)
 
 ### 노마드코더스 바닐라JS 챌린지 졸업작품입니다. CSS 챌린지를 참고하여 디자인하였습니다.
 
@@ -8,7 +8,7 @@
 
 
 ----
-### ✅ 필수 조건
+### ✔️ 필수 조건
 - 실시간 시계
 - 로컬 스토리지를 사용한 로그인
 - 로컬 스토리지를 사용한 투두리스트
