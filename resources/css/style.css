@@ -12,6 +12,14 @@
     font-style: normal;
 }
 
+@font-face {
+    font-family: 'LeferiPoint-BlackA';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2201-2@1.0/LeferiPoint-BlackA.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+font-family: 'LeferiPoint-BlackA';
 :root {
     --main-color: red;
     --text-color: blue;
@@ -190,6 +198,7 @@ html {
     grid-area: center;
     justify-content: center;
     align-items: center;
+    font-family: 'LeferiPoint-BlackA';
 }
 
 .center img {
